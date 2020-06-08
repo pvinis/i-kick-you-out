@@ -33,3 +33,7 @@ This script is kinda specific to my case, but I'm pretty sure it can be worked o
 
 ### Specific Notes
 I noticed that Firefox does not sync history to `places.sqlite` immediately. It usually takes a couple of minutes but it definitely sync more often than 40 minutes, so by the time I'm kicked out of Zoom, the history is synced, and the script will get the right call url.
+
+
+### Do you have an idea or a setup that is not compatible?
+Make an issue! Make a PR! I'm interested!! Thanks.
