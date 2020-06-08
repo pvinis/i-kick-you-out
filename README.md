@@ -14,7 +14,7 @@ To run, either:
 - use the provided `.alfredworkflow` file to add this to Alfred. Don't forget to go to the settings, you can change the default shortcut, I have `fz` by default, and you need to change the path to the script. Change `~/Source/pvinis/i-kick-you-out` to the path where you cloned this repo.
 - use any other way, and if you are an awesome human, tell me what you used or make a PR to add that way in this repo!
 
-## Why this exists?
+## Why does this exist?
 I have to use Zoom all the time for work, and I am so bored to reconnect when a Zoom call kicks us out after the first 40 minutes. They say a good developer is a bored developer, because then you automate things. Here's my attempt.
 
 ## How it works
